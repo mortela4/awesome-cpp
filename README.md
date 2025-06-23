@@ -23,6 +23,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Documentation](#documentation)
 	- [DSP](#dsp)
 	- [Font](#font)
+ 	- [Functional](#functional) 
 	- [Game Engine](#game-engine)
 	- [Graph](#graph)
 	- [GUI](#gui)
@@ -544,6 +545,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. [Old MIT]
 * [libschrift](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. [ISC]
+
+## Functional
+*Libraries for 'functional' programming in C++ (e.g. LINQ)*
+* [CxxIter](https://github.com/seijikun/CXXIter) - LINQ using C++20
+* [BooLINQ](https://github.com/k06a/boolinq) - tiny 'header only' LINQ library
+* [Sequence](https://github.com/calum74/sequence) - C++14 based LINQ library, especially for sequences
 
 ## Game Engine
 
