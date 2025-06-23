@@ -294,6 +294,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Concurrency
 *Concurrency and Multithreading*
 
+* [Rigtorp SPSC/MPMC queues](https://github.com/rigtorp) - thread-safe Single/Multiple Consumer/Producer QUEUEs (in C++11); old but well-proven
 * [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. [LGPLv3+]
 * [ArrayFire](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. [BSD]
 * [Async++](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]
