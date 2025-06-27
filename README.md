@@ -1411,6 +1411,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 * [OptView2](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations.
 * [Trunk](https://trunk.io) - Toolkit to check, test, merge, and monitor code.
+* [Doxide](https://doxide.org) - Auto-documentation system (à la Doxygen) w. markup, but w. built-in static analysis (e.g. code coverage)
 
 ## Coding Style Tools
 
