@@ -465,6 +465,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Trilogy](https://github.com/trilogy-libraries/trilogy) - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. [MIT]
 * [UStore](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
+* [NativePG](https://github.com/anarthal/nativepg) - 'Modern' C++ interface to PostgreSQL DB (equivalent to Boost::MySQL for mysql-DB)
+
 
 ## Data visualization
 *Data visualization Libraries*
@@ -552,6 +554,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CxxIter](https://github.com/seijikun/CXXIter) - LINQ using C++20
 * [BooLINQ](https://github.com/k06a/boolinq) - tiny 'header only' LINQ library
 * [Sequence](https://github.com/calum74/sequence) - C++14 based LINQ library, especially for sequences
+* [TransRangers](https://github.com/joaquintides/transrangers) - ranges-based (std::ranges) manipulations on collections
+
 
 ## Game Engine
 
