@@ -1151,6 +1151,7 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. **NOTE**: a rather *old* implementation! (pre-C++11)  [PublicDomain]
 * [palacaze/sigslot](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation [MIT]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
+* [CallMe](https://github.com/bitsbakery/callme) - Very fast delegates/events in C++20.
 
 
 ## Sorting
