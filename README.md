@@ -544,7 +544,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Error Handling
 
-* [Result](https://github.com/bitwizeshift/result) - Return one type on success, another on failure.
+* [Result](https://github.com/bitwizeshift/result) - Return one type on success, another on failure. (alternative to 'std::expected<T,E>')
 
 
 ## Font
