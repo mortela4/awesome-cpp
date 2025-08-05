@@ -48,6 +48,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
 	- [Serial Port](#serial-port)
+ 	- [Signals and Slots](#signals-and-slots) 
 	- [Sorting](#sorting)
 	- [Video](#video)
 	- [Virtual Machines](#virtual-machines)
@@ -1136,6 +1137,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Libserial](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. [BSD-3-Clause]
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT] [website](http://wjwwood.io/serial/)
 
+## Signals and Slots
+
+NOTE: also referred to as 'Delegates' (in C# especially)!
+
+* [signals-and-slots Benchmarks](https://github.com/palacaze/signal-slot-benchmarks) - benchmarking of several popular signal-slot C++ libraries (some found below).
+* [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. **NOTE**: a rather *old* implementation! (pre-C++11)  [PublicDomain]
+* [palacaze/sigslot](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation [MIT]
+* [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
+
+
 ## Sorting
 
 + [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. [MIT]
@@ -1274,11 +1285,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
 * [semver.c](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. [MIT]
-* [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. **NOTE**: a rather *old* implementation! (pre-C++11)  [PublicDomain]
 * [SLJIT](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler. [BSD] [website](https://zherczeg.github.io/sljit/)
-* [palacaze/sigslot](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation [MIT]
 * [simdzone](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. [BSD-3-Clause]
-* [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stb](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. [PublicDomain]
 * [stdman](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. [MIT]
