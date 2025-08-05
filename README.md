@@ -22,6 +22,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Debug](#debug)
 	- [Documentation](#documentation)
 	- [DSP](#dsp)
+ 	- [Error Handling](#error-handling) 
 	- [Font](#font)
  	- [Functional](#functional) 
 	- [Game Engine](#game-engine)
@@ -540,6 +541,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [kissfft](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. [BSD-3-Clause]
 * [pocketfft](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. [BSD-3-Clause]
 * [wavelib](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. [BSD-3-Clause]
+
+## Error Handling
+
+* [Result](https://github.com/bitwizeshift/result) - Return one type on success, another on failure.
+
 
 ## Font
 *Libraries for parsing and manipulating font files.*
