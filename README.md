@@ -1480,6 +1480,9 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+* [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - wlakthrough of all >=C++20 STL algorithms. NOTE: lots of other stuff here too!
+* [C++ Notes](https://github.com/peter-can-write/cpp-notes) - bunch of notes on C++ formatted as several, smaller MarkDown-documents. (relatively old, C++11 focused)
+
 
 ## Coding Standards
 
