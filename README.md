@@ -1310,6 +1310,8 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [xxhash_cpp](https://github.com/RedSpah/xxhash_cpp) - Port of the xxhash library to C++17. [BSD-2-Clause]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [TypeMap](https://github.com/MKlimenko/type_map) - map value(s) to type(s): single-header library.
+
 
 # Software
 *Software for creating a development environment.*
@@ -1570,6 +1572,7 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
 * [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
+* [GNSS blog](https://mklimenko.github.io/) - Dev blog for GNSS-related signal processing in C++ (plus, check out his GitHub for several useful libs!). 
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
