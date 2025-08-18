@@ -343,6 +343,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
 * [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. [BSD]
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+* [Work-Contracts](https://github.com/buildingcpp/work_contract) - C++20 'work contracts' = replacement for task queues (e.g. MPMC etc.).
+
 
 ## Configuration
 *Configuration files, INI files*
