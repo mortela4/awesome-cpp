@@ -1165,7 +1165,7 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Searching
-* [SIMDutf] - search and classify/validate UTF-8/16/32 data, with SIMD-optimization to achive BLAZING (>100GB/s) speeds!!
+* [SIMDutf](https://github.com/simdutf) - search and classify/validate UTF-8/16/32 data, with SIMD-optimization to achive BLAZING (>100GB/s) speeds!!
 
 ## Video
 
