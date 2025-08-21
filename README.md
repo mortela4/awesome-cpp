@@ -51,6 +51,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Serial Port](#serial-port)
  	- [Signals and Slots](#signals-and-slots) 
 	- [Sorting](#sorting)
+ 	- [Searching](#searching) 
 	- [Video](#video)
 	- [Virtual Machines](#virtual-machines)
 	- [Web Application Framework](#web-application-framework)
@@ -1162,6 +1163,9 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
+
+## Searching
+* [SIMDutf] - search and classify/validate UTF-8/16/32 data, with SIMD-optimization to achive BLAZING (>100GB/s) speeds!!
 
 ## Video
 
