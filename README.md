@@ -1586,6 +1586,8 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+* [Doulos C++ Courses](https://github.com/Doulos) - C++ demo code from workshops and webinars, mostly for embedded (low-level) C++ code.
+
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
