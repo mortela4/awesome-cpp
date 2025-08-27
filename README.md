@@ -1587,6 +1587,7 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 * [Doulos C++ Courses](https://github.com/Doulos) - C++ demo code from workshops and webinars, mostly for embedded (low-level) C++ code.
+* [Cpp4Arduino](https://github.com/bblanchon/cpp4arduino) - C++ examples for Arduino 'best practices' (mostly for new devs coming from 'C' ...).
 
 
 # Other Awesome Lists
