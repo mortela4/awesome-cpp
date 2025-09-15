@@ -26,6 +26,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Font](#font)
  	- [Functional](#functional) 
 	- [Game Engine](#game-engine)
+ 	- [GPU Programming](#GPU-programming)
 	- [Graph](#graph)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
@@ -297,6 +298,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Concurrency
 *Concurrency and Multithreading*
 
+* [KjellKod's "Q"](https://github.com/KjellKod/Q) - with (micro)benchmarks too. See also his "MoodyCamel" C++11 header-only queuing library!
 * [Rigtorp SPSC/MPMC queues](https://github.com/rigtorp) - thread-safe Single/Multiple Consumer/Producer QUEUEs (in C++11); old but well-proven
 * [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. [LGPLv3+]
 * [ArrayFire](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. [BSD]
@@ -598,6 +600,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [toy engine](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 * [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. [MIT]
 * [ezEngine](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. [MIT] [website](https://ezengine.net/)
+
+
+## GPU Programming
+
+GPU programming on nVidia, Intel, AMD, and other platforms.
+
 
 ## Graph
 
