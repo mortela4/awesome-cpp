@@ -919,7 +919,7 @@ GPU programming on nVidia, Intel, AMD, and other platforms.
 * [SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
 * [TagLib](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. [LGPL/MPL] [website](https://taglib.org/)
 
-## [MVVM]
+## MVVM
 Anything related to 'ModelView-ViewModel' type programming, involving data-binding(i.e. 'properties') and observable-pattern.
 
 * [KDAB's "KDBindings"](https://github.com/KDAB/KDBindings)
