@@ -39,10 +39,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Math](#math)
 	- [Memory Allocation](#memory-allocation)
 	- [Multimedia](#multimedia)
+ 	- [MVVM](#modelview-viewmodel) 
 	- [Networking](#networking)
 	- [Office Open XML](#office-open-xml)
 	- [PDF](#pdf)
 	- [Physics](#physics)
+ 	- [Reactive Programming](#reactive-programming)
 	- [Reflection](#reflection)
 	- [Regular Expression](#regular-expression)
 	- [Robotics](#robotics)
@@ -917,6 +919,13 @@ GPU programming on nVidia, Intel, AMD, and other platforms.
 * [SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
 * [TagLib](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. [LGPL/MPL] [website](https://taglib.org/)
 
+## [MVVM]
+Anything related to 'ModelView-ViewModel' type programming, involving data-binding(i.e. 'properties') and observable-pattern.
+
+* [KDAB's "KDBindings"](https://github.com/KDAB/KDBindings)
+* [Bindey](https://github.com/kevin--/bindey)
+
+
 ## Networking
 
 * [ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++. [Apache-2.0/MIT]
@@ -1026,6 +1035,9 @@ GPU programming on nVidia, Intel, AMD, and other platforms.
 * [QuarkPhysics](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. [MIT]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
+
+## Reactive Programming
+
 
 ## Reflection
 
