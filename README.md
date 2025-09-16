@@ -1036,7 +1036,11 @@ Anything related to 'ModelView-ViewModel' type programming, involving data-bindi
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
 
+
 ## Reactive Programming
+Rx/Actor type event-driven programming.
+
+* [Rotor](https://github.com/basiliscos/cpp-rotor) - Actor-model programming.
 
 
 ## Reflection
