@@ -70,6 +70,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Static Code Analysis](#static-code-analysis)
 	- [Coding Style Tools](#coding-style-tools)
 - [Resources](#resources)
+	- [C++ for Embedded](#cpp-embedded) 
 	- [API Design](#api-design)
 	- [Articles](#articles)
 	- [Books](#books)
@@ -1474,6 +1475,12 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
+
+## C++ For Embedded
+C++ for embedded platforms and 'bare metal' programming.
+
+* [C++for Embedded Systems Book](https://github.com/PacktPublishing/Cpp-in-Embedded-Systems) - example code from the book.
+
 
 ## API Design
 
