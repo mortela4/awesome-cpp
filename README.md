@@ -1341,6 +1341,9 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [xxhash_cpp](https://github.com/RedSpah/xxhash_cpp) - Port of the xxhash library to C++17. [BSD-2-Clause]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [QuickCppLib](https://github.com/ned14/quickcpplib) - Small utility library for various uses.
+* [Status-Code](https://github.com/ned14/status-code) - Platform-independent <system_error> handling.
+* ['tok3n'](https://github.com/k3DW/tok3n) - Generic but POWERFUL parser library.
 * [TypeMap](https://github.com/MKlimenko/type_map) - map value(s) to type(s): single-header library.
 
 
@@ -1389,6 +1392,7 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [Metashell](https://metashell.readthedocs.org) - An interactive template metaprogramming shell which includes the MDB metadebugger.
 * [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
 * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
+* [Debug](https://github.com/k3DW/debug) - NOT a debugger, but a Python-script to launch and extend GDB (requires Python3-support in given GDB version used).
 
 ## Integrated Development Environment
 *List of C or C++ nominal IDEs.*
