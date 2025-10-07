@@ -1613,7 +1613,9 @@ C++ for embedded platforms and 'bare metal' programming.
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
 * [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
-* [GNSS blog](https://mklimenko.github.io/) - Dev blog for GNSS-related signal processing in C++ (plus, check out his GitHub for several useful libs!). 
+* [GNSS blog](https://mklimenko.github.io/) - Dev blog for GNSS-related signal processing in C++ (plus, check out his GitHub for several useful libs!).
+* [Barry's C++ Blog](https://brevzin.github.io/) - C++26 and everything bleedin' edge ...
+
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
