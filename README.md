@@ -24,7 +24,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [DSP](#dsp)
  	- [Error Handling](#error-handling) 
 	- [Font](#font)
- 	- [Functional](#functional) 
+ 	- [Functional](#functional)
+  	- [Frameworks](#frameworks) 
 	- [Game Engine](#game-engine)
  	- [GPU Programming](#GPU-programming)
 	- [Graph](#graph)
@@ -570,6 +571,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [BooLINQ](https://github.com/k06a/boolinq) - tiny 'header only' LINQ library
 * [Sequence](https://github.com/calum74/sequence) - C++14 based LINQ library, especially for sequences
 * [TransRangers](https://github.com/joaquintides/transrangers) - ranges-based (std::ranges) manipulations on collections
+
+
+## Frameworks
+*Libraries that declare themselves 'frameworks' - or resemble such, with base libraries with a wide span of generic functionality.*
+Such functionality can be I/O (network-stream, file, console), OS services, string processing - mixed together.
+
+* [Open-Framework](https://github.com/TheBadkraft/open-framework) - This is a pure 'C' implementation of basic I/O and string processing functionality!!
+
 
 
 ## Game Engine
