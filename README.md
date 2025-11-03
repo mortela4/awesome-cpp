@@ -84,8 +84,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Weblogs](#weblogs)
 	- [Other Awesome Projects](#other-awesome-projects)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Jobs](#jobs)
-- [Sponsors](#sponsors)
+- [Blogs](#blogs)
 - [Contributing](#contributing)
 			- [*If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*](#if-you-see-a-project-or-link-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-document-thank-you)
 
