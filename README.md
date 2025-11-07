@@ -1579,6 +1579,8 @@ C++ for embedded platforms and 'bare metal' programming.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
 * [The Cherno's C++ Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Extensive C++ tutorial series by The Cherno.
 * [Code for Yourself C++ Playlist](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) - A complete C++ course covering everything from fundamentals to software design.
+* [ACCU ClassCentral](https://www.classcentral.com/subject/accu-conference) - ACCUconf videos (no slides since 2019, so this is what we get ...).
+
 
 ## Websites
 *Useful C or C++ related websites.*
