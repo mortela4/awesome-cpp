@@ -1523,6 +1523,8 @@ C++ for embedded platforms and 'bare metal' programming.
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
+* [Linking with GCC: LD_LIBRARY_PATH explained](https://opensource.com/article/22/5/compile-code-ldlibrarypath) - Shows use of 'ldd', 'readelf' and GCC's linker.
+
 
 ## Books
 *Fantastic C or C++ related books.*
@@ -1625,6 +1627,8 @@ C++ for embedded platforms and 'bare metal' programming.
 * [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
 * [GNSS blog](https://mklimenko.github.io/) - Dev blog for GNSS-related signal processing in C++ (plus, check out his GitHub for several useful libs!).
 * [Barry's C++ Blog](https://brevzin.github.io/) - C++26 and everything bleedin' edge ...
+* [Irkos' blog](https://irkos.org/cpp/aop) - C++ 'Best Practices' (esp. 'std::weak/shared/unique_ptr()' usage).
+* [TheGreeenPlace](https://eli.thegreenplace.net/) - Eli Bendersky's blog (not so much C++ after 2020 ...).
 
 
 ## Other Awesome Projects
