@@ -79,6 +79,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Coding Style](#coding-style)
 	- [Podcasts](#podcasts)
 	- [Talks](#talks)
+ 	- [Tutorials](#tutorials) 
 	- [Videos](#videos)
 	- [Websites](#websites)
 	- [Weblogs](#weblogs)
@@ -1565,6 +1566,13 @@ C++ for embedded platforms and 'bare metal' programming.
 * [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
 * [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ YouTube Channel
+
+
+## Tutorials
+HOWTOS and step-by-step project descriptions or articles.
+
+* [Debug in WSL(2) from VisualStudio](https://learn.microsoft.com/en-us/cpp/build/walkthrough-build-debug-wsl2)
+
 
 ## Videos
 *Fantastic C or C++ related videos.*
