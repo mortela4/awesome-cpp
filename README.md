@@ -1538,6 +1538,10 @@ C++ for embedded platforms and 'bare metal' programming.
 * [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - wlakthrough of all >=C++20 STL algorithms. NOTE: lots of other stuff here too!
 * [C++ Notes](https://github.com/peter-can-write/cpp-notes) - bunch of notes on C++ formatted as several, smaller MarkDown-documents. (relatively old, C++11 focused)
 
+## Cheatsheets
+
+* [Cheatsheet Collection](https://github.com/Px3/Cheatsheets) - on lots of topics, among them C++.
+
 
 ## Coding Standards
 
@@ -1573,6 +1577,10 @@ C++ for embedded platforms and 'bare metal' programming.
 HOWTOS and step-by-step project descriptions or articles.
 
 * [Debug in WSL(2) from VisualStudio](https://learn.microsoft.com/en-us/cpp/build/walkthrough-build-debug-wsl2)
+* ['Rule-of-Three'](https://en.cppreference.com/w/cpp/language/rule_of_three.html) - VEEEERY imprtant ...
+* [LearnC++](https://learncplusplus.org) - various ...
+* [WinXX syscalls](https://github.com/CyberSecurityUP/DirectSyscall-Example)
+* [C++ classes](https://cplusplus.com/doc/tutorial/classes2/)
 
 
 ## Videos
