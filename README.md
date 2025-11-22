@@ -1637,6 +1637,8 @@ HOWTOS and step-by-step project descriptions or articles.
 * [Barry's C++ Blog](https://brevzin.github.io/) - C++26 and everything bleedin' edge ...
 * [Irkos' blog](https://irkos.org/cpp/aop) - C++ 'Best Practices' (esp. 'std::weak/shared/unique_ptr()' usage).
 * [TheGreeenPlace](https://eli.thegreenplace.net/) - Eli Bendersky's blog (not so much C++ after 2020 ...).
+* [PVSstudio blog](https://pvs-studio.com/en/blog) - from the folks behind "PVSstudio" static-analysis tool.
+* [KlausElk](https://klauselk.com/index.php) - ....
 
 
 ## Other Awesome Projects
