@@ -934,6 +934,7 @@ Anything related to 'ModelView-ViewModel' type programming, involving data-bindi
 
 * [KDAB's "KDBindings"](https://github.com/KDAB/KDBindings)
 * [Bindey](https://github.com/kevin--/bindey)
+* [CppProperty](https://github.com/yosh-matsuda/cpp-property) - emulate C#'s 'property'-declared class members.
 
 
 ## Networking
