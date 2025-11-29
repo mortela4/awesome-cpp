@@ -1581,6 +1581,7 @@ HOWTOS and step-by-step project descriptions or articles.
 * [LearnC++](https://learncplusplus.org) - various ...
 * [WinXX syscalls](https://github.com/CyberSecurityUP/DirectSyscall-Example)
 * [C++ classes](https://cplusplus.com/doc/tutorial/classes2/)
+* [Simplify C++](https://simplifycpp.org) - Entry-level tutorials.
 
 
 ## Videos
