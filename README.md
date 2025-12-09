@@ -1382,7 +1382,7 @@ NOTE: also referred to as 'Delegates' (in C# especially)!
 * [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
 * [coliru](http://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 * [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
-* [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
+* [CompileOnline](http://www.point.com/codingground.htm) - Compile and Execute C++ online on Linux.
 * [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 * [OneCompiler](https://onecompiler.com/) - An online compiler supporting over 70 programming languages and database systems.
 * [Programiz](https://www.programiz.com/cpp-programming/online-compiler) - An online compiler for learners and developers.
@@ -1582,6 +1582,8 @@ HOWTOS and step-by-step project descriptions or articles.
 * [WinXX syscalls](https://github.com/CyberSecurityUP/DirectSyscall-Example)
 * [C++ classes](https://cplusplus.com/doc/tutorial/classes2/)
 * [Simplify C++](https://simplifycpp.org) - Entry-level tutorials.
+* [Peter Sommerlad](https://github.com/PeterSommerlad) - MISRA-C++, safety, embedded - lots of presentations and example code.
+* []
 
 
 ## Videos
