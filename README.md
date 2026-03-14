@@ -1537,6 +1537,8 @@ C++ for embedded platforms and 'bare metal' programming.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 * [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - wlakthrough of all >=C++20 STL algorithms. NOTE: lots of other stuff here too!
 * [C++ Notes](https://github.com/peter-can-write/cpp-notes) - bunch of notes on C++ formatted as several, smaller MarkDown-documents. (relatively old, C++11 focused)
+* ['97 Things every dev should know'](https://97-things-every-x-should-know.gitbook.io) - Collection of wisdom curated by 'Uncle Bob' Martin.
+ 
 
 ## Cheatsheets
 
