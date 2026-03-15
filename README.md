@@ -103,7 +103,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. [Apache2]
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
-* [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
+* [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions.
+* [Apache2](http://blackmilk.fr/www/cms/dev/libapache2_mod_raii_en) - 10+ years old, move on ...(?)
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
 * [AUI](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. [MPL2]
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](https://www.boost.org)
