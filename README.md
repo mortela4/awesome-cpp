@@ -1527,6 +1527,7 @@ C++ for embedded platforms and 'bare metal' programming.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 * [Linking with GCC: LD_LIBRARY_PATH explained](https://opensource.com/article/22/5/compile-code-ldlibrarypath) - Shows use of 'ldd', 'readelf' and GCC's linker.
+* [UUID to/from string](https://cppscripts.com/cpp-generate-uuid) - Use C++20 to create (16-byte) UUID from format-checked UUID-string.
 
 
 ## Books
