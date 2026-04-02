@@ -50,4 +50,5 @@
 ## Online
 
 * [SOLID](https://github.com/schostac/CppSOLID) - Tutorial on SOLID practise in C++
-* [SOLID](https://github.com/schostac/CppSOLID) - 
+* [C++ 'Best Practices'](https://github.com/cpp-best-practices) - Jason Turner's thoughts on C++ 'Best Practices'.
+ 
