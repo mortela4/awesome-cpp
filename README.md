@@ -22,6 +22,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Debug](#debug)
 	- [Documentation](#documentation)
 	- [DSP](#dsp)
+ 	- [Embedded](#embedded) 
  	- [Error Handling](#error-handling) 
 	- [Font](#font)
  	- [Functional](#functional)
