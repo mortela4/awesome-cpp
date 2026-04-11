@@ -552,6 +552,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [pocketfft](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. [BSD-3-Clause]
 * [wavelib](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. [BSD-3-Clause]
 
+
+## Embedded
+Includes MCU-related C++ libraries.
+
+* [Embedded DDS/RTPS](https://github.com/embedded-software-laboratory) - RTPS-for-DDS implementation for MCUs (specific port to STM32 in particular).
+* [Embedded Fwk](https://github.com/azonenberg/common-embedded-platform) - Utils ...
+* [NASA's 'Foundation' framework](https://github.com/nasa/Foundation) - C++11 compliant fwk that can be used both on desktop and embedded/bare-metal.
+* [mROS](https://github.com/mROS-base) - 'ROS2' for MCUs.
+* [FW-testing Fwk](https://github.com/pelco/firmware_testing) - Framework utilizing *'CppUTest'* to test embedded firmware (incl. ISR-dependencies!)
+
+
 ## Error Handling
 
 * [Result](https://github.com/bitwizeshift/result) - Return one type on success, another on failure. (alternative to 'std::expected<T,E>')
