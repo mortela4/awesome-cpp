@@ -1705,6 +1705,8 @@ HOWTOS and step-by-step project descriptions or articles.
 # Blogs
 
 * [QuuxPlusOne](https://quuxplusone.github.io/blog/) - Arthur O'Dwyers blog; lots of info on C++26 and future standards work.
+* [AlvarezRosa](https://david.alvarezrosa.com/) - C++ in HPC/trading.
+
 
 
 # Contributing
