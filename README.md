@@ -488,7 +488,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 * [morphologica](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
 
-## Debug
+## Debug and Test
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. [MIT]
