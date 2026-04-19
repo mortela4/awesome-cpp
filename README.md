@@ -562,6 +562,7 @@ Includes MCU-related C++ libraries.
 * [NASA's 'Foundation' framework](https://github.com/nasa/Foundation) - C++11 compliant fwk that can be used both on desktop and embedded/bare-metal.
 * [mROS](https://github.com/mROS-base) - 'ROS2' for MCUs.
 * [FW-testing Fwk](https://github.com/pelco/firmware_testing) - Framework utilizing *'CppUTest'* to test embedded firmware (incl. ISR-dependencies!)
+* [eProsima DDS](https://github.com/eProsima) - DDS libraries in C++.
 
 
 ## Error Handling
