@@ -353,6 +353,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. [BSD]
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 * [Work-Contracts](https://github.com/buildingcpp/work_contract) - C++20 'work contracts' = replacement for task queues (e.g. MPMC etc.).
+* [Felix Petriconi](https://github.com/FelixPetriconi) - libs and presentations on C++ 'coroutines'.
 
 
 ## Configuration
@@ -1169,7 +1170,7 @@ Rx/Actor type event-driven programming.
 * [Boost.Serialization](https://github.com/boostorg/serialization) - Boost Serialization Library. [Boost] [website](https://boost.org/libs/serialization)
 * [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
-* [cista](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. [MIT]
+* [cista](https://github.com/guendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. [MIT]
 * [cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
 * [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
